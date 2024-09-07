@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/naderfrigui" target="blank"><img src="https://img.shields.io/twitter/follow/naderfrigui?logo=twitter&style=for-the-badge" alt="naderfrigui" /></a> </p>
 
-- 🌱 I’m currently learning **Next, React / React Native**
+- 🌱 Currently enhancing my skills in Next.js, React, and React Native.
 
 - 📫 How to reach me **nadfri@gmail.com**
 
